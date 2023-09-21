@@ -2,7 +2,7 @@
 
 <h1>HTML and CSS Projects</h1>
 <ul>
-<li>Sweet Side Bakery Site</li>
+<li><a href="./Basic_HTML_Website/index.html">Sweeter Side Bakery Site</a></li>
 <li>Movie Theater Site</li>
 
 <h1>Sweeter Side Bakery Site</h1>
